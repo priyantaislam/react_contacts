@@ -1,6 +1,6 @@
 # React Contacts Application
 
-A web application that displays your contacts and lets your browse them. The app makes an api call to grab placeholder data. 
+A web application that displays your contacts and lets you browse them. The app makes an api call to grab placeholder data. 
 
 
 ### To-do
